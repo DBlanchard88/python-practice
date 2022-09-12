@@ -1,7 +1,9 @@
-is_male = False
+is_male = True
+is_tall = True
 
-if is_male:
-    print("you are a male")
+if is_male or is_tall:
+
+    print("you are a male or tall or both")
 
 else:
-    print("you are not a male")
+    print("you are neither male or tall")
