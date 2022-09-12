@@ -1,3 +1,6 @@
+from lib2to3.pgen2.token import EQUAL
+
+
 def max_num(num1, num2, num3):
     if num1 >= num2 and num1 >= num3:
         return num1
