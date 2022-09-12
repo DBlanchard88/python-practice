@@ -13,3 +13,5 @@ elif op == "*":
     print (num1 * num2)
 else: 
     print("Invalid operator")
+
+   # not sure why it is giving me syntax error 
